@@ -1,0 +1,25 @@
+
+.all {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  padding: 25px;
+  margin: 0px;
+  background: #99CCFF;
+}
+
+.images {
+  padding: 20px;
+}
+
+.glossary {
+  margin: 0px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  padding: 50px;
+  background: #99CCFF;
+}
+
+.indented {
+  margin: 20px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  padding: 25px;
+  background: #99CCFF;
+}
