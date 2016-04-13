@@ -1,0 +1,24 @@
+{
+  "name": "learning-to-code",
+  "version": "1.0.0",
+  "description": "Good job, you found the README! Whenever you look at a collection of code and see a README, you should read that first. It's like an orientation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahwilkinson/learning-to-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahwilkinson/learning-to-code/issues"
+  },
+  "homepage": "https://github.com/sarahwilkinson/learning-to-code#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
